@@ -3,6 +3,7 @@
 A. Create Express side.
 1. npm init
 2. npm i express morgan body-parser pg-promise
+   npm i --save-dev concurrently nodemon
 ```
 const express = require('express');
 const logger = require('morgan');
