@@ -44,4 +44,5 @@ app.listen(PORT, ()=> {
 }
 ```
 7. Add "proxy": "http://localhost:3001" to react side package.json (end)
-8. Install react-router-dom in client. 
+8. Install react-router-dom in client.
+9. Install bcrypt and jsonwebtoken
